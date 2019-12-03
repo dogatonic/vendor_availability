@@ -1,2 +1,2 @@
 # vendor_availability
-https://codesandbox.io/s/spring-sun-scw6z
+This is a temporary file for a code exercise.
